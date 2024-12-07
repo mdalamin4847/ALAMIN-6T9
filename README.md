@@ -53,6 +53,6 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 <a href="https://github.com/mdalamin4847"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
-<a href="https://fb.com/MRALAMINXHOWDHURY"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://i.imgur.com/TRMj4qA.jpeg" /></a>
+<a href="https://fb.com/MRALAMINXHOWDHURY"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://i.imgur.com/IZyGp36.jpeg" /></a>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
