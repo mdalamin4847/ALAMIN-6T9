@@ -1,71 +1,57 @@
-## ABOUT ME
+<img src="https://i.imgur.com/e872wkX.mp4" alt="banner">
+<h1>ALAMIN-AI</h1>
+<!-- Github README -->
 
-name : ```Nayan Developer```</br>
-age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+<p align="center"><img src="https://img.shields.io/badge/I Am ALAMIN %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
-## CREDITS
-
-original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
-
-## CONFIG AND CUSTOM
-
-Nayan.js : ``configure auto restart and auto accept pending messages.``</br>
-Nayan.json : ``configure bot name, bot prefix, bot operators and admins, appstate save``</br>
-Nayanstate.json : ``account cache data.``</br>Nayan/configs/Nayan.json : ``Set Your Bot Id Email Password``
-
-## BOX APPROVAL
-
-``box approval`` is set as default, you can disable it on ``Nayan.json`` by setting the ``approval`` value into ``false``</br>
-
-you can approve box by using ``approve`` command without using prefix, how to use? just type ``approve (box/remove) (uid/tid)``</br>
-
-EXAMPLES : </br>
-
-view approved list 
-```txt 
-approve list
-```
-add box from approved list 
-```txt
-approve box 4834812366643016
-```
-remove box from approved list 
-```txt
-approve remove 4834812366643016
-```
-
-## Login System
-
-If you want to login with an email password, go to Nayan/configs/Nayan.json and set your email password ``email``, ``password`` value
-
-If You Use fbstate go to ``Nayanstate.json`` and past fbstate
-
-if you run use ``email`` and ``password``, use Nayan.json(``saveState:false``); otherwise, use Nayan.json(``saveState:true``)
-
-## HOW TO GET 'NayanSTATE.JSON' DATA?
-
-to get ``Nayanstate.json`` data, please follow these steps :</br>
-
-step 1 : download fbstate exporter [here](https://drive.google.com/uc?id=1SFsFP_VhMyPg6JpqJtpqnjAr2kiKD7tl)</br>
-
-step 2 : download ``kiwi browser`` from the play store.</br>
-
-step 3 : open kiwi browser and tap on the three dots at the top right corner.</br>
-
-step 4 : select ``extensions`` from the menu.</br>
-
-step 5 : tap on ``+ from (.zip/ .crx/ .user.js)`` and choose the file "fbstate_exporter-1.0.xpi (1).zip" that you downloaded.</br>
-
-step 6 : once the extension is added, go to ``www.facebook.com`` and log in to the account you want to use as a bot.</br>
-
-step 7 : after logging in, tap on the three dots again and scroll down to find the fbstate exporter.</br>
-
-step 8 : click on it and then click on ``copy fbstate``.</br>
-
-step 9 : paste the copied data into the ``Nayanstate.json`` file.</br>
-
-step 10 : finally, click on ``run`` to initiate the bot.</br>
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'R+A+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/BAYJID-901"><img width=550 src="https://github-profile-trophy.vercel.app/?username=mdalamin4847&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+</p>
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/BAYJID-202 /count.svg" alt="Visitors">
+</p>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝗡𝗔𝗠𝗘      :𝗠𝗱 𝗔𝗹𝗮𝗺𝗶𝗻 𝗖𝗵𝗼𝘄𝗱𝗵𝘂𝗿𝘆
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪  𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡   : 𝗜𝗦𝗟𝗔𝗠
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 :- 𝗦𝗧𝗨𝗗𝗬
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝗥𝗘𝗟𝗔𝗧𝗜𝗢𝗡𝗦𝗛𝗜𝗣 :- 𝗦𝗜𝗡𝗚𝗟𝗘
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [Md Alamin Chowdhury](https://www.facebook.com/MDALAMINHOSENNOBITA)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+<h3><b><i> Contact me in Touch :</i></b></h3>
+<a href="https://github.com/mdalamin4847"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://fb.com/MRALAMINXHOWDHURY"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
