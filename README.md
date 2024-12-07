@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/e872wkX.mp4" alt="banner">
+<img src="https://i.imgur.com/47VAgVN.jpeg" alt="banner">
 <h1>ALAMIN-AI</h1>
 <!-- Github README -->
 
