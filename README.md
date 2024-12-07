@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/47VAgVN.jpeg" alt="banner">
-<h1>_____ALAMIN-6T9_____</h1>
+<h1>____ALAMIN-6T9____</h1>
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/I Am ALAMIN %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
